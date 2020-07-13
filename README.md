@@ -1,6 +1,8 @@
 # spring-boot-multiple-db
+ Register multiple DB like MySql and PostgreSql and how to handle distributed transaction of multiple DB and roll-back.
  
-## Database (script)
+ 
+## Database script
 1) MySQL Script and (FooDbConfig.java) which has configuration
 
 CREATE schema foo;
